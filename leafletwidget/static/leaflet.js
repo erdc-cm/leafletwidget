@@ -1,6 +1,7 @@
 
 
 require.config({
+    baseUrl: '/static/',
     paths: {
         leaflet: "%s",
         leaflet_draw: "%s"
